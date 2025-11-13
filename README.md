@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OjasRane
-- 👀 I’m interested in ..3D modelling as well as Game Development through the Unreal Engine 5 [UE5]
-- 🌱 I’m currently learning Game Development with Unreal Engine 5
+- 👀 I’m interested in  programming, Mathematics and using its combinations to solve problems.
+- 🌱 Currently I am exploring Python and the vast field of Mathematics
 
 <!---
 OjasRane/OjasRane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

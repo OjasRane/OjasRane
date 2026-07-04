@@ -30,12 +30,16 @@ I'm a Computer Engineering student with a strong foundation in mathematics — I
 ## 🌟 Featured Projects
 
 - [**Singular Value Decomposition**](https://github.com/OjasRane/Singular-Value-Decomposition)
-  - Python implementation of SVD with visual demonstrations and linear algebra applications.
-  - Implemented SVD from scratch and built a Streamlit app to visualize:
-    - Image compression using rank-k approximation
-    - Reconstruction error vs singular value plot
-    - Energy retained vs singular value plot
+  - Demonstrates SVD applied to image compression and Principal Component Analysis (PCA), with both from-scratch and optimized NumPy-based implementations.
+  - Includes utilities for reconstruction quality evaluation, compression analysis, and a custom `.svd` binary format for compressed images.
+  - Features an interactive **SVD Lab** web app with image compression playgrounds, PCA visualizations, and custom image/`.svd` viewing workflows.
   - Explore the project here: [SVD Lab](https://svdlab.streamlit.app)
+
+- [**Face Recognition**](https://github.com/OjasRane/Face-Recognition)
+  - Demonstrates face recognition using classical linear techniques, centered on a PCA-based eigenfaces workflow on the Olivetti Faces dataset.
+  - Includes notebook-based analysis, model training/testing scripts, and evaluation artifacts such as confusion matrix results.
+  - Features an interactive **Face Recognition Lab** web app for testing nearest-match behavior and exploring the PCA recognition pipeline.
+  - Explore the project here: [Face Recognition Lab](https://face-recognition-lab.streamlit.app)
 
 - **Truth Bureau**  
   - Impetus project made with my team.
